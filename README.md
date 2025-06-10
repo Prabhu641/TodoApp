@@ -13,6 +13,12 @@ A clean and simple Todo App built with **React** and **Lucide Icons**. Designed 
 - 🧠 Powered by React useState
 
 ---
+## 🌐 Live Demo
+
+🔗 [Check it out my app!](https://todo-ro99tx44l-prabhu641s-projects.vercel.app/)
+🔗 [Check it out my github!](https://github.com/Prabhu641/TodoApp/)
+
+
 
 ## 🛠️ Built With
 
